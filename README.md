@@ -63,12 +63,6 @@ This project demonstrates an **end-to-end ML pipeline** — from data preprocess
    * Built interactive interface with Streamlit
    * Hosted app on Streamlit Cloud
 
----
-
-## 🔹 Screenshots
-
-![App Screenshot](Screenshot.png)
-*(Replace with your actual screenshot filename in repo)*
 
 ---
 
