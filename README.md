@@ -91,7 +91,7 @@ streamlit run main.py
 
 ## 🔹 Project Links
 
-* **Live App:** [Streamlit Cloud Link](#)
+* **Live App:** [Streamlit Cloud Link](https://mlhealthcarepremiumprediction-hihzhlmjtfpxer4nqvffmr.streamlit.app/)
 * **GitHub Repo:** [GitHub Repo Link](#)
 
 ---
