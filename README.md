@@ -4,7 +4,7 @@ This project is a **Machine Learning application** that predicts health insuranc
 
 ---
 
-## 🔹 Project Overview
+## Project Overview
 
 Health insurance pricing depends on multiple factors such as age, income, BMI, smoking status, and medical history. Traditional approaches often use static formulas, but **Machine Learning enables data-driven, personalized predictions** by capturing non-linear relationships and hidden patterns in the data.
 
@@ -12,7 +12,7 @@ This project demonstrates an **end-to-end ML pipeline** — from data preprocess
 
 ---
 
-## 🔹 Features
+## Features
 
 * Takes **user input** (age, income, dependents, BMI, smoking status, region, employment type, insurance plan, medical history, etc.).
 * **Data segmentation** by age group to improve model accuracy.
@@ -23,7 +23,7 @@ This project demonstrates an **end-to-end ML pipeline** — from data preprocess
 
 ---
 
-## 🔹 Tech Stack
+## Tech Stack
 
 **Languages & Libraries**
 
@@ -36,7 +36,7 @@ This project demonstrates an **end-to-end ML pipeline** — from data preprocess
 
 ---
 
-## 🔹 Workflow
+## Workflow
 
 1. **Data Preprocessing**
 
@@ -66,7 +66,7 @@ This project demonstrates an **end-to-end ML pipeline** — from data preprocess
 
 ---
 
-## 🔹 How to Run Locally
+## How to Run Locally
 
 Clone the repository:
 
@@ -89,14 +89,14 @@ streamlit run main.py
 
 ---
 
-## 🔹 Project Links
+## Project Links
 
 * **Live App:** [Streamlit Cloud Link](https://mlhealthcarepremiumprediction-hihzhlmjtfpxer4nqvffmr.streamlit.app/)
 * **GitHub Repo:** [GitHub Repo Link](https://github.com/lalithdabilpuram01/ML_health_care_premium_prediction)
 
 ---
 
-## 🔹 Future Improvements
+## Future Improvements
 
 * Add more advanced models (LightGBM, Neural Networks)
 * Incorporate real-world datasets for richer predictions
@@ -105,7 +105,7 @@ streamlit run main.py
 
 ---
 
-## 🔹 Author
+## Author
 
 **Lalith Kumar Dabilpuram**
 
